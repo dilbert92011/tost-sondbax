@@ -1,0 +1,23 @@
+So I created the local branch vlan_addon, modified some files and
+pushed it to github.
+
+command history to get there: 
+
+git clone https://github.com/dilbert92011/tost-sondbax.git
+cd tost-sondbax/
+git status 
+git checkout -b vlan_addon
+git branch  -a
+vi README.md 
+vi file_001.txt 
+git diff
+git status
+git add README.md 
+git add file_001.txt 
+git remote -v
+git push -u origin vlan_addon
+git config --global user.email "dilbert92011@gmail.com"
+git config --global user.name "Dilbert of Carlsbad"
+git commit
+git push
+
