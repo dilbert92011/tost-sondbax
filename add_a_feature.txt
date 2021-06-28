@@ -6,3 +6,13 @@ I add a feature:
 I create a branch add_feat
 I push it to guthub
 
+Commands to get here (originating from branch vlan_addon):
+
+vi add_a_feature.txt
+vi README.md
+git add README.md 
+git add add_a_feature.txt 
+git checkout -b add_feat
+git push -u origin add_feat
+cat README.md 
+
