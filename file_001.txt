@@ -1,4 +1,8 @@
 just atest
 add all as needed and more or less :)
 adding some feature!
+<<<<<<< HEAD
 Another feature again and cleaned it with 'commit --amend'
+=======
+Another feature again with errror
+>>>>>>> 91fe93fd0a673745beb120558fba98a23c80aa3b
