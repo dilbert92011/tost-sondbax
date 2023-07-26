@@ -3,4 +3,4 @@ add all as needed and more or less :)
 add merger from conflict branch
 branch mergeconflict
 master was here
-
+merger comf
