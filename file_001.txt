@@ -1,4 +1,5 @@
 just atest
 add all as needed and more or less :)
+master add
 branch mergeconflict
 master was here
