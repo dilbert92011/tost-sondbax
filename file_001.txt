@@ -1,4 +1,4 @@
 just atest
 add all as needed and more or less :)
 branch mergeconflict
-another mergeconfl line
+master was here
